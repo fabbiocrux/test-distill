@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-16T16:13:50+02:00"
+      "last_modified": "2021-05-16T18:28:00+02:00"
     },
     {
       "path": "index.html",
       "title": "My Website",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-05-16T16:13:50+02:00"
+      "contents": "\nddd\n\n\n\n",
+      "last_modified": "2021-05-16T18:28:01+02:00"
     }
   ],
   "collections": []
